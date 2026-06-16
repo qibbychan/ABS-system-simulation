@@ -1,2 +1,2 @@
-# ABS-system-simulation
-This repository contains a MATLAB/Simulink simulation of an Anti-lock Braking System (ABS) based on a bang-bang controller. The project models a quarter-car system to analyze wheel slip dynamics and braking performance under emergency conditions.
+
+<img width="1287" height="492" alt="image" src="https://github.com/user-attachments/assets/4d10eb57-a9b3-4ce0-b6cf-b93d1065510f" />
